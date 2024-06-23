@@ -1,0 +1,6 @@
+Toronto 7
+Lima 6
+Istanbul 7
+Lagos 8
+Shanghai 1
+Sydney 6

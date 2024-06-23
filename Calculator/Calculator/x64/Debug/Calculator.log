@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\cathy\OneDrive\Desktop\SNHU\C++\Calculator\Calculator.cpp(12,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\cathy\OneDrive\Desktop\SNHU\C++\Calculator\Calculator.cpp(14,7): warning C4101: 'statement': unreferenced local variable
+  Calculator.vcxproj -> C:\Users\cathy\OneDrive\Desktop\SNHU\C++\Calculator\x64\Debug\Calculator.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cathy\\OneDrive\\Desktop\\SNHU\\C\u002B\u002B\\TemperatureConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD160EB-C8AF-4357-B6FE-E874C7822911}|TemperatureConverter.vcxproj|C:\\Users\\cathy\\OneDrive\\Desktop\\SNHU\\C\u002B\u002B\\TemperatureConverter\\TemperatureConverter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FD160EB-C8AF-4357-B6FE-E874C7822911}|TemperatureConverter.vcxproj|solutionrelative:TemperatureConverter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureConverter.cpp",
+              "DocumentMoniker": "C:\\Users\\cathy\\OneDrive\\Desktop\\SNHU\\C\u002B\u002B\\TemperatureConverter\\TemperatureConverter.cpp",
+              "RelativeDocumentMoniker": "TemperatureConverter.cpp",
+              "ToolTip": "C:\\Users\\cathy\\OneDrive\\Desktop\\SNHU\\C\u002B\u002B\\TemperatureConverter\\TemperatureConverter.cpp",
+              "RelativeToolTip": "TemperatureConverter.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T18:00:01.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
